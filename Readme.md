@@ -7,7 +7,7 @@
 
 This example shows how to apply DataAnnotations attributes that specify data validation rules. The [RequiredAttribute](https://docs.microsoft.com/en-us/dotnet/api/system.componentmodel.dataannotations.requiredattribute) is applied to the **Name** and **Department** data fields. The [StringLengthAttribute](https://docs.microsoft.com/en-us/dotnet/api/system.componentmodel.dataannotations.stringlengthattribute) is applied to the **Position** data field.
 
-![image](https://user-images.githubusercontent.com/65009440/171386579-05b14cd1-3a21-4a8c-ad6b-47fb7e98a72b.png)
+![image](https://user-images.githubusercontent.com/65009440/171389380-cf1fcfaf-a596-4062-b8b2-9555a0e7bef1.png)
 
 <!-- default file list -->
 
