@@ -29,7 +29,7 @@ This example shows how to apply DataAnnotations attributes that specify data val
 * [WPF Data Grid - How to Validate Data Rows](https://github.com/DevExpress-Examples/how-to-validate-data-rows-e1593)
 * [WPF Data Grid - How to Validate Cell Editors](https://github.com/DevExpress-Examples/validate-cell-editors)
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=wpf-data-grid-implement-attribute-based-validation&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=wpf-data-grid-implement-attribute-based-validation&~~~was_helpful=no)
 
